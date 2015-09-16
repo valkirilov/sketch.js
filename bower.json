@@ -2,6 +2,9 @@
   "name": "sketch.js-2",
   "version": "1.0.0",
   "homepage": "https://github.com/valkirilov/sketch.js",
+  "main": [
+    "lib/sketch.js"
+  ],
   "authors": [
     "Michael Bleigh"
   ],
